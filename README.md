@@ -1,4 +1,13 @@
 # metalsmith-tags
+  Hey! This isn't metalsmith-tags. There's no pagination functionality. I haven't gone through the readme to update anything,
+  as I don't expect this to be used by many people. I'm not planning to PR this either. 
+  I hope metalsmith-tags gets some PRs merged in that are still being reviewed after years, so that I can use the canonical version that actually has tests written for it.
+  
+  To actually install, try this. Not tested:
+  
+  ```
+  $ npm install "git+https://github.com/MegaJ/metalsmith-tags-no-pagination.git" --save
+  ```
 
   A metalsmith plugin to create dedicated pages for tags in provided in metalsmith pages.
 
