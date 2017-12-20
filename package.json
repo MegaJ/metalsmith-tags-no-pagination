@@ -1,26 +1,26 @@
 {
-  "name": "metalsmith-tags",
-  "version": "2.0.0",
-  "description": "A metalsmith plugin to create dedicated pages for tags in posts or pages.",
+  "name": "metalsmith-tags-no-pagination",
+  "version": "0.0.0",
+  "description": "A metalsmith plugin to create a global tags object to organize posts and pages.",
   "main": "lib/index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/totocaster/metalsmith-tags"
+    "url": "git://github.com/megaj/metalsmith-tags-no-pagination.git"
   },
   "keywords": [
     "metalsmith",
     "plugin",
     "tags"
   ],
-  "author": "Toto Tvalavadze <toto@totocaster.com>",
+  "author": "megaj",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/totocaster/metalsmith-tags/issues"
+    "url": "https://github.com/megaj/metalsmith-tags-no-pagination/issues"
   },
-  "homepage": "https://github.com/totocaster/metalsmith-tags",
+  "homepage": "https://github.com/megaj/metalsmith-tags-no-pagination",
   "devDependencies": {
     "assert-dir-equal": "1.0.1",
     "handlebars": "*",
